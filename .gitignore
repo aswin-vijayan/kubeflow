@@ -1,0 +1,16 @@
+/artifacts
+/logs
+
+venv/
+.env
+
+*/__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+/datasets/data-pipeline
+
+/test.py
+
+/src/mlflow_runs
+
+/deploy_kserve

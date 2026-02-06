@@ -1,0 +1,19 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+pandera
+
+flask
+flask-cors
+python-dotenv
+
+kfp
+kubernetes
+kubeflow-training
+
+mlflow
+boto3
+
+# kserve
